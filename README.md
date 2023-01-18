@@ -1,6 +1,6 @@
 When publishing results obtained with DB-Generator **WaNo**, please consider citing it.
 
-![Mult-It WaNo logo](https://raw.githubusercontent.com/KIT-Workflows/Mult-It/main/mult-It_logo.png)
+![Mult-It WaNo logo](https://raw.githubusercontent.com/KIT-Workflows/DB-Generator/main/db-generator_logo.png)
 
 # DB-Generator
 
