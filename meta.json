@@ -1,0 +1,19 @@
+{
+    "workflow_environment":"SimStack",
+    "title": "DB-Generator",
+    "description": "Generates a DB in a .yml file format.",
+    "authors": [
+        "Celso R. C. Rego", "celsorego@kit.edu"
+    ],
+    "version": "0.0.1",
+    "logo": "db-generator_logo.png",
+    "release": {
+        "latest_release_date": "2023-19-09",
+        "latest_release_tag": "0.0.1"
+    },
+    
+    "keywords": [
+        "data base",
+        "yaml"
+    ]
+}
